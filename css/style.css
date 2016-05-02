@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+background: url(../Images/paper.jpg) repeat;
+}
+body,td,th {
+	color: #FFFFFF;
+	font-family: arial;
+
+}
+
+footer,td,th {
+	color: #FFFFFF;
+	font-family: arial;
+
+}
+
+.right {
+	float: right;
+	text-align: right;
+}
+.left {
+	float: left;
+}
+.clear {
+	clear: both;
+}
+
+footer,td,th {
+	color: #FFFFFF;
+}
+
+.center{
+	float: center;
+	text-align: center;
+	letter-spacing: 5px;
+	word-spacing: 25px;
+}
+
+.title{
+	float: center;
+	text-align: center;
+	letter-spacing: 5px;
+}
+
+.paragraph {
+	float: right;
+	text-align: right;
+	margin-left: 350px;
+}
+
+.link {
+	float: left;
+	text-align: left;
+	margin-left: 100px;
+}
